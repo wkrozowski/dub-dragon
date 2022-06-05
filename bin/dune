@@ -1,0 +1,4 @@
+(executable
+ (public_name dub_dragon)
+ (name main)
+ (libraries dub_dragon))
