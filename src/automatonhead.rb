@@ -13,4 +13,6 @@ end
 
 use_synth :fm
 
+bpm = 1/2
+
 # Automaton definition goes here
